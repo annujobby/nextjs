@@ -5,9 +5,9 @@ import utilStyles from '../styles/utils.module.css';
 export default function Home() {
 	return (
 		<Layout home>
-			<Head>
-				<title>'My Profile'</title>
-			</Head>
+			{/* <Head>
+				<title>My Profile</title>
+			</Head> */}
 			<section className={utilStyles.headingMd}>
 				<p>I am Annu.Junior web developer @TrustyBytes</p>
 				<p>
